@@ -2,17 +2,14 @@
 
 This project is a multiclass classification of customer service queries into seven topics such as "Shipping", "Product Availability", "Returns &amp; Refunds", etc. 
 
-Datset -https://github.com/ARGULASAISURAJ/Multiclass-Classification-of-Customer-Service-Queries/blob/main/Customer_Service_Questions_Multiclass.csv
 
 This corpus contains 5000 customer queries at an online retailer, which are classified into seven topics such as "Shipping", "Product Availability", "Returns & Refunds", etc.
 
 Distribution of Data across topics
 
-![pic2](https://github.com/ARGULASAISURAJ/Multiclass-Classification-of-Customer-Service-Queries/blob/main/Images/pic2.PNG)
 
 **Dataset snapshot**
 
-![pic1](https://github.com/ARGULASAISURAJ/Multiclass-Classification-of-Customer-Service-Queries/blob/main/Images/pic1.PNG)
 
 **Text cleaning procedure**
 
@@ -25,9 +22,6 @@ removed numerical text
 lemmatized words
 
 **Dataset snapshot after cleaning**
-
-![pic3](https://github.com/ARGULASAISURAJ/Multiclass-Classification-of-Customer-Service-Queries/blob/main/Images/pic3.PNG)
-
 
 Encoded Categories using **Label encoder**.
 
